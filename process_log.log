@@ -1,0 +1,482 @@
+2025-01-01 19:16:56,561 - INFO - Processing file: 2024-12-20 15-30-14.mkv
+2025-01-01 19:18:28,666 - INFO - Processing file: 2024-12-20 15-30-14.mkv
+2025-01-01 19:23:55,165 - INFO - Processing file: 2024-12-20 15-30-14.mkv
+2025-01-01 19:24:01,377 - INFO - Audio extracted to: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-30-14.wav
+2025-01-01 19:24:12,189 - ERROR - Error during transcription for C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-30-14.wav: usage: insanely-fast-whisper.exe [-h] --file-name FILE_NAME
+                                 [--device-id DEVICE_ID]
+                                 [--transcript-path TRANSCRIPT_PATH]
+                                 [--model-name MODEL_NAME]
+                                 [--task {transcribe,translate}]
+                                 [--language LANGUAGE]
+                                 [--batch-size BATCH_SIZE] [--flash FLASH]
+                                 [--timestamp {chunk,word}]
+                                 [--hf-token HF_TOKEN]
+                                 [--diarization_model DIARIZATION_MODEL]
+                                 [--num-speakers NUM_SPEAKERS]
+                                 [--min-speakers MIN_SPEAKERS]
+                                 [--max-speakers MAX_SPEAKERS]
+insanely-fast-whisper.exe: error: the following arguments are required: --file-name
+
+2025-01-01 19:24:12,199 - INFO - Processing file: 2024-12-20 15-51-35.mkv
+2025-01-01 19:24:14,549 - INFO - Audio extracted to: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-51-35.wav
+2025-01-01 19:24:20,662 - ERROR - Error during transcription for C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-51-35.wav: usage: insanely-fast-whisper.exe [-h] --file-name FILE_NAME
+                                 [--device-id DEVICE_ID]
+                                 [--transcript-path TRANSCRIPT_PATH]
+                                 [--model-name MODEL_NAME]
+                                 [--task {transcribe,translate}]
+                                 [--language LANGUAGE]
+                                 [--batch-size BATCH_SIZE] [--flash FLASH]
+                                 [--timestamp {chunk,word}]
+                                 [--hf-token HF_TOKEN]
+                                 [--diarization_model DIARIZATION_MODEL]
+                                 [--num-speakers NUM_SPEAKERS]
+                                 [--min-speakers MIN_SPEAKERS]
+                                 [--max-speakers MAX_SPEAKERS]
+insanely-fast-whisper.exe: error: the following arguments are required: --file-name
+
+2025-01-01 19:24:20,662 - INFO - Processing file: 2024-12-20 16-18-19.mkv
+2025-01-01 19:24:21,906 - INFO - Audio extracted to: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 16-18-19.wav
+2025-01-01 19:24:28,695 - ERROR - Error during transcription for C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 16-18-19.wav: usage: insanely-fast-whisper.exe [-h] --file-name FILE_NAME
+                                 [--device-id DEVICE_ID]
+                                 [--transcript-path TRANSCRIPT_PATH]
+                                 [--model-name MODEL_NAME]
+                                 [--task {transcribe,translate}]
+                                 [--language LANGUAGE]
+                                 [--batch-size BATCH_SIZE] [--flash FLASH]
+                                 [--timestamp {chunk,word}]
+                                 [--hf-token HF_TOKEN]
+                                 [--diarization_model DIARIZATION_MODEL]
+                                 [--num-speakers NUM_SPEAKERS]
+                                 [--min-speakers MIN_SPEAKERS]
+                                 [--max-speakers MAX_SPEAKERS]
+insanely-fast-whisper.exe: error: the following arguments are required: --file-name
+
+2025-01-01 19:24:28,695 - INFO - Processing file: 2024-12-20 16-31-17.mkv
+2025-01-01 19:24:31,163 - INFO - Audio extracted to: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 16-31-17.wav
+2025-01-01 19:24:37,816 - ERROR - Error during transcription for C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 16-31-17.wav: usage: insanely-fast-whisper.exe [-h] --file-name FILE_NAME
+                                 [--device-id DEVICE_ID]
+                                 [--transcript-path TRANSCRIPT_PATH]
+                                 [--model-name MODEL_NAME]
+                                 [--task {transcribe,translate}]
+                                 [--language LANGUAGE]
+                                 [--batch-size BATCH_SIZE] [--flash FLASH]
+                                 [--timestamp {chunk,word}]
+                                 [--hf-token HF_TOKEN]
+                                 [--diarization_model DIARIZATION_MODEL]
+                                 [--num-speakers NUM_SPEAKERS]
+                                 [--min-speakers MIN_SPEAKERS]
+                                 [--max-speakers MAX_SPEAKERS]
+insanely-fast-whisper.exe: error: the following arguments are required: --file-name
+
+2025-01-01 19:24:37,816 - INFO - Processing file: 2024-12-20 16-56-48.mkv
+2025-01-01 19:24:39,228 - INFO - Audio extracted to: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 16-56-48.wav
+2025-01-01 19:24:45,855 - ERROR - Error during transcription for C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 16-56-48.wav: usage: insanely-fast-whisper.exe [-h] --file-name FILE_NAME
+                                 [--device-id DEVICE_ID]
+                                 [--transcript-path TRANSCRIPT_PATH]
+                                 [--model-name MODEL_NAME]
+                                 [--task {transcribe,translate}]
+                                 [--language LANGUAGE]
+                                 [--batch-size BATCH_SIZE] [--flash FLASH]
+                                 [--timestamp {chunk,word}]
+                                 [--hf-token HF_TOKEN]
+                                 [--diarization_model DIARIZATION_MODEL]
+                                 [--num-speakers NUM_SPEAKERS]
+                                 [--min-speakers MIN_SPEAKERS]
+                                 [--max-speakers MAX_SPEAKERS]
+insanely-fast-whisper.exe: error: the following arguments are required: --file-name
+
+2025-01-01 19:24:45,855 - INFO - Processing file: 2024-12-20 17-09-51.mkv
+2025-01-01 19:24:48,244 - INFO - Audio extracted to: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 17-09-51.wav
+2025-01-01 19:24:54,544 - ERROR - Error during transcription for C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 17-09-51.wav: usage: insanely-fast-whisper.exe [-h] --file-name FILE_NAME
+                                 [--device-id DEVICE_ID]
+                                 [--transcript-path TRANSCRIPT_PATH]
+                                 [--model-name MODEL_NAME]
+                                 [--task {transcribe,translate}]
+                                 [--language LANGUAGE]
+                                 [--batch-size BATCH_SIZE] [--flash FLASH]
+                                 [--timestamp {chunk,word}]
+                                 [--hf-token HF_TOKEN]
+                                 [--diarization_model DIARIZATION_MODEL]
+                                 [--num-speakers NUM_SPEAKERS]
+                                 [--min-speakers MIN_SPEAKERS]
+                                 [--max-speakers MAX_SPEAKERS]
+insanely-fast-whisper.exe: error: the following arguments are required: --file-name
+
+2025-01-01 19:24:54,545 - INFO - Processing file: 2024-12-20 17-33-14.mkv
+2025-01-01 19:24:55,784 - INFO - Audio extracted to: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 17-33-14.wav
+2025-01-01 19:25:02,084 - ERROR - Error during transcription for C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 17-33-14.wav: usage: insanely-fast-whisper.exe [-h] --file-name FILE_NAME
+                                 [--device-id DEVICE_ID]
+                                 [--transcript-path TRANSCRIPT_PATH]
+                                 [--model-name MODEL_NAME]
+                                 [--task {transcribe,translate}]
+                                 [--language LANGUAGE]
+                                 [--batch-size BATCH_SIZE] [--flash FLASH]
+                                 [--timestamp {chunk,word}]
+                                 [--hf-token HF_TOKEN]
+                                 [--diarization_model DIARIZATION_MODEL]
+                                 [--num-speakers NUM_SPEAKERS]
+                                 [--min-speakers MIN_SPEAKERS]
+                                 [--max-speakers MAX_SPEAKERS]
+insanely-fast-whisper.exe: error: the following arguments are required: --file-name
+
+2025-01-01 19:25:02,099 - INFO - Processing file: 2024-12-21 10-00-38.mkv
+2025-01-01 19:25:04,374 - INFO - Audio extracted to: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-21 10-00-38.wav
+2025-01-01 19:25:11,144 - ERROR - Error during transcription for C:\Users\Sharvaree\Videos\CQF_Output\2024-12-21 10-00-38.wav: usage: insanely-fast-whisper.exe [-h] --file-name FILE_NAME
+                                 [--device-id DEVICE_ID]
+                                 [--transcript-path TRANSCRIPT_PATH]
+                                 [--model-name MODEL_NAME]
+                                 [--task {transcribe,translate}]
+                                 [--language LANGUAGE]
+                                 [--batch-size BATCH_SIZE] [--flash FLASH]
+                                 [--timestamp {chunk,word}]
+                                 [--hf-token HF_TOKEN]
+                                 [--diarization_model DIARIZATION_MODEL]
+                                 [--num-speakers NUM_SPEAKERS]
+                                 [--min-speakers MIN_SPEAKERS]
+                                 [--max-speakers MAX_SPEAKERS]
+insanely-fast-whisper.exe: error: the following arguments are required: --file-name
+
+2025-01-02 16:37:55,275 - INFO - CUDA device found: NVIDIA GeForce RTX 3060 Laptop GPU
+2025-01-02 16:37:55,283 - INFO - Processing file: 2024-12-20 15-30-14.mkv
+2025-01-02 16:40:09,303 - INFO - CUDA device found: NVIDIA GeForce RTX 3060 Laptop GPU
+2025-01-02 16:40:09,308 - INFO - Processing file: 2024-12-20 15-30-14.mkv
+2025-01-02 16:40:09,308 - INFO - Audio already extracted: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-30-14.wav
+2025-01-02 16:40:09,309 - INFO - Running command: insanely-fast-whisper --file-name C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-30-14.wav --language en --batch-size 2 --device-id cuda
+2025-01-02 16:40:35,677 - INFO - CUDA device found: NVIDIA GeForce RTX 3060 Laptop GPU
+2025-01-02 16:40:35,682 - INFO - Processing file: 2024-12-20 15-30-14.mkv
+2025-01-02 16:40:35,683 - INFO - Audio already extracted: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-30-14.wav
+2025-01-02 16:40:35,683 - INFO - Running command: insanely-fast-whisper --file-name C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-30-14.wav --language en --batch-size 2 --device-id cuda
+2025-01-02 16:40:43,926 - ERROR - Error during transcription for C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-30-14.wav: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\Sharvaree\Documents\Phoenixgen\video_transcription\videotranscription\.venv\Scripts\insanely-fast-whisper.exe\__main__.py", line 7, in <module>
+  File "c:\Users\Sharvaree\Documents\Phoenixgen\video_transcription\videotranscription\.venv\Lib\site-packages\insanely_fast_whisper\cli.py", line 130, in main
+    pipe = pipeline(
+           ^^^^^^^^^
+  File "c:\Users\Sharvaree\Documents\Phoenixgen\video_transcription\videotranscription\.venv\Lib\site-packages\transformers\pipelines\__init__.py", line 1178, in pipeline
+    return pipeline_class(model=model, framework=framework, task=task, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Sharvaree\Documents\Phoenixgen\video_transcription\videotranscription\.venv\Lib\site-packages\transformers\pipelines\automatic_speech_recognition.py", line 220, in __init__
+    super().__init__(model, tokenizer, feature_extractor, device=device, torch_dtype=torch_dtype, **kwargs)
+  File "c:\Users\Sharvaree\Documents\Phoenixgen\video_transcription\videotranscription\.venv\Lib\site-packages\transformers\pipelines\base.py", line 896, in __init__
+    self.device = torch.device(device)
+                  ^^^^^^^^^^^^^^^^^^^^
+RuntimeError: Invalid device string: 'cuda:cuda'
+
+2025-01-02 16:40:43,928 - INFO - Processing file: 2024-12-20 15-51-35.mkv
+2025-01-02 16:40:43,930 - INFO - Audio already extracted: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-51-35.wav
+2025-01-02 16:40:43,930 - INFO - Running command: insanely-fast-whisper --file-name C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-51-35.wav --language en --batch-size 2 --device-id cuda
+2025-01-02 16:40:52,035 - ERROR - Error during transcription for C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-51-35.wav: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\Sharvaree\Documents\Phoenixgen\video_transcription\videotranscription\.venv\Scripts\insanely-fast-whisper.exe\__main__.py", line 7, in <module>
+  File "c:\Users\Sharvaree\Documents\Phoenixgen\video_transcription\videotranscription\.venv\Lib\site-packages\insanely_fast_whisper\cli.py", line 130, in main
+    pipe = pipeline(
+           ^^^^^^^^^
+  File "c:\Users\Sharvaree\Documents\Phoenixgen\video_transcription\videotranscription\.venv\Lib\site-packages\transformers\pipelines\__init__.py", line 1178, in pipeline
+    return pipeline_class(model=model, framework=framework, task=task, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Sharvaree\Documents\Phoenixgen\video_transcription\videotranscription\.venv\Lib\site-packages\transformers\pipelines\automatic_speech_recognition.py", line 220, in __init__
+    super().__init__(model, tokenizer, feature_extractor, device=device, torch_dtype=torch_dtype, **kwargs)
+  File "c:\Users\Sharvaree\Documents\Phoenixgen\video_transcription\videotranscription\.venv\Lib\site-packages\transformers\pipelines\base.py", line 896, in __init__
+    self.device = torch.device(device)
+                  ^^^^^^^^^^^^^^^^^^^^
+RuntimeError: Invalid device string: 'cuda:cuda'
+
+2025-01-02 16:40:52,036 - INFO - Processing file: 2024-12-20 16-18-19.mkv
+2025-01-02 16:40:52,037 - INFO - Audio already extracted: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 16-18-19.wav
+2025-01-02 16:40:52,037 - INFO - Running command: insanely-fast-whisper --file-name C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 16-18-19.wav --language en --batch-size 2 --device-id cuda
+2025-01-02 16:41:00,643 - ERROR - Error during transcription for C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 16-18-19.wav: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\Sharvaree\Documents\Phoenixgen\video_transcription\videotranscription\.venv\Scripts\insanely-fast-whisper.exe\__main__.py", line 7, in <module>
+  File "c:\Users\Sharvaree\Documents\Phoenixgen\video_transcription\videotranscription\.venv\Lib\site-packages\insanely_fast_whisper\cli.py", line 130, in main
+    pipe = pipeline(
+           ^^^^^^^^^
+  File "c:\Users\Sharvaree\Documents\Phoenixgen\video_transcription\videotranscription\.venv\Lib\site-packages\transformers\pipelines\__init__.py", line 1178, in pipeline
+    return pipeline_class(model=model, framework=framework, task=task, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Sharvaree\Documents\Phoenixgen\video_transcription\videotranscription\.venv\Lib\site-packages\transformers\pipelines\automatic_speech_recognition.py", line 220, in __init__
+    super().__init__(model, tokenizer, feature_extractor, device=device, torch_dtype=torch_dtype, **kwargs)
+  File "c:\Users\Sharvaree\Documents\Phoenixgen\video_transcription\videotranscription\.venv\Lib\site-packages\transformers\pipelines\base.py", line 896, in __init__
+    self.device = torch.device(device)
+                  ^^^^^^^^^^^^^^^^^^^^
+RuntimeError: Invalid device string: 'cuda:cuda'
+
+2025-01-02 16:41:00,644 - INFO - Processing file: 2024-12-20 16-31-17.mkv
+2025-01-02 16:41:00,645 - INFO - Audio already extracted: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 16-31-17.wav
+2025-01-02 16:41:00,645 - INFO - Running command: insanely-fast-whisper --file-name C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 16-31-17.wav --language en --batch-size 2 --device-id cuda
+2025-01-02 16:41:08,605 - ERROR - Error during transcription for C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 16-31-17.wav: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\Sharvaree\Documents\Phoenixgen\video_transcription\videotranscription\.venv\Scripts\insanely-fast-whisper.exe\__main__.py", line 7, in <module>
+  File "c:\Users\Sharvaree\Documents\Phoenixgen\video_transcription\videotranscription\.venv\Lib\site-packages\insanely_fast_whisper\cli.py", line 130, in main
+    pipe = pipeline(
+           ^^^^^^^^^
+  File "c:\Users\Sharvaree\Documents\Phoenixgen\video_transcription\videotranscription\.venv\Lib\site-packages\transformers\pipelines\__init__.py", line 1178, in pipeline
+    return pipeline_class(model=model, framework=framework, task=task, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Sharvaree\Documents\Phoenixgen\video_transcription\videotranscription\.venv\Lib\site-packages\transformers\pipelines\automatic_speech_recognition.py", line 220, in __init__
+    super().__init__(model, tokenizer, feature_extractor, device=device, torch_dtype=torch_dtype, **kwargs)
+  File "c:\Users\Sharvaree\Documents\Phoenixgen\video_transcription\videotranscription\.venv\Lib\site-packages\transformers\pipelines\base.py", line 896, in __init__
+    self.device = torch.device(device)
+                  ^^^^^^^^^^^^^^^^^^^^
+RuntimeError: Invalid device string: 'cuda:cuda'
+
+2025-01-02 16:41:08,606 - INFO - Processing file: 2024-12-20 16-56-48.mkv
+2025-01-02 16:41:08,606 - INFO - Audio already extracted: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 16-56-48.wav
+2025-01-02 16:41:08,607 - INFO - Running command: insanely-fast-whisper --file-name C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 16-56-48.wav --language en --batch-size 2 --device-id cuda
+2025-01-02 16:41:17,206 - ERROR - Error during transcription for C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 16-56-48.wav: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\Sharvaree\Documents\Phoenixgen\video_transcription\videotranscription\.venv\Scripts\insanely-fast-whisper.exe\__main__.py", line 7, in <module>
+  File "c:\Users\Sharvaree\Documents\Phoenixgen\video_transcription\videotranscription\.venv\Lib\site-packages\insanely_fast_whisper\cli.py", line 130, in main
+    pipe = pipeline(
+           ^^^^^^^^^
+  File "c:\Users\Sharvaree\Documents\Phoenixgen\video_transcription\videotranscription\.venv\Lib\site-packages\transformers\pipelines\__init__.py", line 1178, in pipeline
+    return pipeline_class(model=model, framework=framework, task=task, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Sharvaree\Documents\Phoenixgen\video_transcription\videotranscription\.venv\Lib\site-packages\transformers\pipelines\automatic_speech_recognition.py", line 220, in __init__
+    super().__init__(model, tokenizer, feature_extractor, device=device, torch_dtype=torch_dtype, **kwargs)
+  File "c:\Users\Sharvaree\Documents\Phoenixgen\video_transcription\videotranscription\.venv\Lib\site-packages\transformers\pipelines\base.py", line 896, in __init__
+    self.device = torch.device(device)
+                  ^^^^^^^^^^^^^^^^^^^^
+RuntimeError: Invalid device string: 'cuda:cuda'
+
+2025-01-02 16:41:17,207 - INFO - Processing file: 2024-12-20 17-09-51.mkv
+2025-01-02 16:41:17,207 - INFO - Audio already extracted: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 17-09-51.wav
+2025-01-02 16:41:17,207 - INFO - Running command: insanely-fast-whisper --file-name C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 17-09-51.wav --language en --batch-size 2 --device-id cuda
+2025-01-02 16:41:25,179 - ERROR - Error during transcription for C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 17-09-51.wav: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\Sharvaree\Documents\Phoenixgen\video_transcription\videotranscription\.venv\Scripts\insanely-fast-whisper.exe\__main__.py", line 7, in <module>
+  File "c:\Users\Sharvaree\Documents\Phoenixgen\video_transcription\videotranscription\.venv\Lib\site-packages\insanely_fast_whisper\cli.py", line 130, in main
+    pipe = pipeline(
+           ^^^^^^^^^
+  File "c:\Users\Sharvaree\Documents\Phoenixgen\video_transcription\videotranscription\.venv\Lib\site-packages\transformers\pipelines\__init__.py", line 1178, in pipeline
+    return pipeline_class(model=model, framework=framework, task=task, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Sharvaree\Documents\Phoenixgen\video_transcription\videotranscription\.venv\Lib\site-packages\transformers\pipelines\automatic_speech_recognition.py", line 220, in __init__
+    super().__init__(model, tokenizer, feature_extractor, device=device, torch_dtype=torch_dtype, **kwargs)
+  File "c:\Users\Sharvaree\Documents\Phoenixgen\video_transcription\videotranscription\.venv\Lib\site-packages\transformers\pipelines\base.py", line 896, in __init__
+    self.device = torch.device(device)
+                  ^^^^^^^^^^^^^^^^^^^^
+RuntimeError: Invalid device string: 'cuda:cuda'
+
+2025-01-02 16:41:25,179 - INFO - Processing file: 2024-12-20 17-33-14.mkv
+2025-01-02 16:41:25,180 - INFO - Audio already extracted: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 17-33-14.wav
+2025-01-02 16:41:25,180 - INFO - Running command: insanely-fast-whisper --file-name C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 17-33-14.wav --language en --batch-size 2 --device-id cuda
+2025-01-02 16:41:33,475 - ERROR - Error during transcription for C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 17-33-14.wav: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\Sharvaree\Documents\Phoenixgen\video_transcription\videotranscription\.venv\Scripts\insanely-fast-whisper.exe\__main__.py", line 7, in <module>
+  File "c:\Users\Sharvaree\Documents\Phoenixgen\video_transcription\videotranscription\.venv\Lib\site-packages\insanely_fast_whisper\cli.py", line 130, in main
+    pipe = pipeline(
+           ^^^^^^^^^
+  File "c:\Users\Sharvaree\Documents\Phoenixgen\video_transcription\videotranscription\.venv\Lib\site-packages\transformers\pipelines\__init__.py", line 1178, in pipeline
+    return pipeline_class(model=model, framework=framework, task=task, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Sharvaree\Documents\Phoenixgen\video_transcription\videotranscription\.venv\Lib\site-packages\transformers\pipelines\automatic_speech_recognition.py", line 220, in __init__
+    super().__init__(model, tokenizer, feature_extractor, device=device, torch_dtype=torch_dtype, **kwargs)
+  File "c:\Users\Sharvaree\Documents\Phoenixgen\video_transcription\videotranscription\.venv\Lib\site-packages\transformers\pipelines\base.py", line 896, in __init__
+    self.device = torch.device(device)
+                  ^^^^^^^^^^^^^^^^^^^^
+RuntimeError: Invalid device string: 'cuda:cuda'
+
+2025-01-02 16:41:33,476 - INFO - Processing file: 2024-12-21 10-00-38.mkv
+2025-01-02 16:41:33,476 - INFO - Audio already extracted: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-21 10-00-38.wav
+2025-01-02 16:41:33,476 - INFO - Running command: insanely-fast-whisper --file-name C:\Users\Sharvaree\Videos\CQF_Output\2024-12-21 10-00-38.wav --language en --batch-size 2 --device-id cuda
+2025-01-02 16:41:41,479 - ERROR - Error during transcription for C:\Users\Sharvaree\Videos\CQF_Output\2024-12-21 10-00-38.wav: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\Sharvaree\Documents\Phoenixgen\video_transcription\videotranscription\.venv\Scripts\insanely-fast-whisper.exe\__main__.py", line 7, in <module>
+  File "c:\Users\Sharvaree\Documents\Phoenixgen\video_transcription\videotranscription\.venv\Lib\site-packages\insanely_fast_whisper\cli.py", line 130, in main
+    pipe = pipeline(
+           ^^^^^^^^^
+  File "c:\Users\Sharvaree\Documents\Phoenixgen\video_transcription\videotranscription\.venv\Lib\site-packages\transformers\pipelines\__init__.py", line 1178, in pipeline
+    return pipeline_class(model=model, framework=framework, task=task, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Sharvaree\Documents\Phoenixgen\video_transcription\videotranscription\.venv\Lib\site-packages\transformers\pipelines\automatic_speech_recognition.py", line 220, in __init__
+    super().__init__(model, tokenizer, feature_extractor, device=device, torch_dtype=torch_dtype, **kwargs)
+  File "c:\Users\Sharvaree\Documents\Phoenixgen\video_transcription\videotranscription\.venv\Lib\site-packages\transformers\pipelines\base.py", line 896, in __init__
+    self.device = torch.device(device)
+                  ^^^^^^^^^^^^^^^^^^^^
+RuntimeError: Invalid device string: 'cuda:cuda'
+
+2025-01-02 16:44:14,226 - INFO - CUDA device found: NVIDIA GeForce RTX 3060 Laptop GPU
+2025-01-02 16:45:19,130 - INFO - Processing file: 2024-12-20 15-30-14.mkv
+2025-01-02 16:48:43,348 - INFO - CUDA device found: NVIDIA GeForce RTX 3060 Laptop GPU
+2025-01-02 16:49:37,287 - INFO - Processing file: 2024-12-20 15-30-14.mkv
+2025-01-02 16:49:47,034 - INFO - Audio already extracted: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-30-14.wav
+2025-01-02 16:50:31,591 - INFO - Transcribing audio file: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-30-14.wav
+2025-01-02 16:50:55,395 - ERROR - Error during transcription for C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-30-14.wav: Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\Sharvaree\Documents\Phoenixgen\video_transcription\videotranscription\.venv\Scripts\insanely-fast-whisper.exe\__main__.py", line 7, in <module>
+  File "c:\Users\Sharvaree\Documents\Phoenixgen\video_transcription\videotranscription\.venv\Lib\site-packages\insanely_fast_whisper\cli.py", line 130, in main
+    pipe = pipeline(
+           ^^^^^^^^^
+  File "c:\Users\Sharvaree\Documents\Phoenixgen\video_transcription\videotranscription\.venv\Lib\site-packages\transformers\pipelines\__init__.py", line 1178, in pipeline
+    return pipeline_class(model=model, framework=framework, task=task, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Sharvaree\Documents\Phoenixgen\video_transcription\videotranscription\.venv\Lib\site-packages\transformers\pipelines\automatic_speech_recognition.py", line 220, in __init__
+    super().__init__(model, tokenizer, feature_extractor, device=device, torch_dtype=torch_dtype, **kwargs)
+  File "c:\Users\Sharvaree\Documents\Phoenixgen\video_transcription\videotranscription\.venv\Lib\site-packages\transformers\pipelines\base.py", line 896, in __init__
+    self.device = torch.device(device)
+                  ^^^^^^^^^^^^^^^^^^^^
+RuntimeError: Invalid device string: 'cuda:cuda'
+
+2025-01-02 16:55:19,912 - INFO - Set CUDA_VISIBLE_DEVICES to 0
+2025-01-02 16:55:21,763 - INFO - CUDA device found: NVIDIA GeForce RTX 3060 Laptop GPU
+2025-01-02 16:55:27,316 - INFO - Processing file: 2024-12-20 15-30-14.mkv
+2025-01-02 16:55:27,316 - INFO - Audio already extracted: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-30-14.wav
+2025-01-02 16:55:27,317 - INFO - Transcribing audio file: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-30-14.wav
+2025-01-02 17:00:45,924 - INFO - Transcription completed for: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-30-14.wav
+2025-01-02 17:00:45,924 - INFO - Transcription saved to C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-30-14_transcription.txt.
+2025-01-02 17:00:45,924 - INFO - Processing file: 2024-12-20 15-51-35.mkv
+2025-01-02 17:00:45,924 - INFO - Audio already extracted: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-51-35.wav
+2025-01-02 17:00:45,924 - INFO - Transcribing audio file: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-51-35.wav
+2025-01-02 17:05:50,638 - INFO - Set CUDA_VISIBLE_DEVICES to 0
+2025-01-02 17:05:54,643 - INFO - CUDA device found: NVIDIA GeForce RTX 3060 Laptop GPU
+2025-01-02 17:05:54,656 - INFO - Processing file: 2024-12-20 15-30-14.mkv
+2025-01-02 17:05:54,656 - INFO - Audio already extracted: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-30-14.wav
+2025-01-02 17:05:54,669 - INFO - Transcription already exists: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-30-14_transcription.txt
+2025-01-02 17:05:54,669 - INFO - Processing file: 2024-12-20 15-51-35.mkv
+2025-01-02 17:05:54,671 - INFO - Audio already extracted: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-51-35.wav
+2025-01-02 17:05:54,673 - INFO - Transcribing audio file: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-51-35.wav
+2025-01-02 17:10:34,213 - INFO - Set CUDA_VISIBLE_DEVICES to 0
+2025-01-02 17:10:38,012 - INFO - CUDA device found: NVIDIA GeForce RTX 3060 Laptop GPU
+2025-01-02 17:10:38,020 - INFO - Processing file: 2024-12-20 15-30-14.mkv
+2025-01-02 17:10:38,020 - INFO - Audio already extracted: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-30-14.wav
+2025-01-02 17:10:38,028 - INFO - Transcription already exists: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-30-14_transcription.txt
+2025-01-02 17:10:38,029 - INFO - Processing file: 2024-12-20 15-51-35.mkv
+2025-01-02 17:10:38,030 - INFO - Audio already extracted: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-51-35.wav
+2025-01-02 17:10:38,031 - INFO - Transcribing audio file: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-51-35.wav
+2025-01-02 17:16:42,215 - INFO - Set CUDA_VISIBLE_DEVICES to 0
+2025-01-02 17:16:45,746 - INFO - CUDA device found: NVIDIA GeForce RTX 3060 Laptop GPU
+2025-01-02 17:16:45,761 - INFO - Processing file: 2024-12-20 15-30-14.mkv
+2025-01-02 17:16:45,764 - INFO - Audio already extracted: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-30-14.wav
+2025-01-02 17:16:45,764 - INFO - Transcribing audio file: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-30-14.wav
+2025-01-02 17:16:52,583 - ERROR - Error during transcription for C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-30-14.wav: Command '['insanely-fast-whisper', '--file-name', 'C:\\Users\\Sharvaree\\Videos\\CQF_Output\\2024-12-20 15-30-14.wav', '--language', 'en', '--batch-size', '2', '--output-file', 'C:\\Users\\Sharvaree\\Videos\\CQF_Output\\2024-12-20 15-30-14.json']' returned non-zero exit status 2.
+2025-01-02 17:16:52,583 - INFO - Processing file: 2024-12-20 15-51-35.mkv
+2025-01-02 17:16:52,583 - INFO - Audio already extracted: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-51-35.wav
+2025-01-02 17:16:52,583 - INFO - Transcribing audio file: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-51-35.wav
+2025-01-02 17:16:59,117 - ERROR - Error during transcription for C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-51-35.wav: Command '['insanely-fast-whisper', '--file-name', 'C:\\Users\\Sharvaree\\Videos\\CQF_Output\\2024-12-20 15-51-35.wav', '--language', 'en', '--batch-size', '2', '--output-file', 'C:\\Users\\Sharvaree\\Videos\\CQF_Output\\2024-12-20 15-51-35.json']' returned non-zero exit status 2.
+2025-01-02 17:16:59,120 - INFO - Processing file: 2024-12-20 16-18-19.mkv
+2025-01-02 17:16:59,120 - INFO - Audio already extracted: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 16-18-19.wav
+2025-01-02 17:16:59,125 - INFO - Transcribing audio file: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 16-18-19.wav
+2025-01-02 17:17:05,625 - ERROR - Error during transcription for C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 16-18-19.wav: Command '['insanely-fast-whisper', '--file-name', 'C:\\Users\\Sharvaree\\Videos\\CQF_Output\\2024-12-20 16-18-19.wav', '--language', 'en', '--batch-size', '2', '--output-file', 'C:\\Users\\Sharvaree\\Videos\\CQF_Output\\2024-12-20 16-18-19.json']' returned non-zero exit status 2.
+2025-01-02 17:17:05,625 - INFO - Processing file: 2024-12-20 16-31-17.mkv
+2025-01-02 17:17:05,625 - INFO - Audio already extracted: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 16-31-17.wav
+2025-01-02 17:17:05,625 - INFO - Transcribing audio file: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 16-31-17.wav
+2025-01-02 17:17:12,766 - ERROR - Error during transcription for C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 16-31-17.wav: Command '['insanely-fast-whisper', '--file-name', 'C:\\Users\\Sharvaree\\Videos\\CQF_Output\\2024-12-20 16-31-17.wav', '--language', 'en', '--batch-size', '2', '--output-file', 'C:\\Users\\Sharvaree\\Videos\\CQF_Output\\2024-12-20 16-31-17.json']' returned non-zero exit status 2.
+2025-01-02 17:17:12,766 - INFO - Processing file: 2024-12-20 16-56-48.mkv
+2025-01-02 17:17:12,766 - INFO - Audio already extracted: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 16-56-48.wav
+2025-01-02 17:17:12,766 - INFO - Transcribing audio file: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 16-56-48.wav
+2025-01-02 17:17:20,199 - ERROR - Error during transcription for C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 16-56-48.wav: Command '['insanely-fast-whisper', '--file-name', 'C:\\Users\\Sharvaree\\Videos\\CQF_Output\\2024-12-20 16-56-48.wav', '--language', 'en', '--batch-size', '2', '--output-file', 'C:\\Users\\Sharvaree\\Videos\\CQF_Output\\2024-12-20 16-56-48.json']' returned non-zero exit status 2.
+2025-01-02 17:17:20,199 - INFO - Processing file: 2024-12-20 17-09-51.mkv
+2025-01-02 17:17:20,199 - INFO - Audio already extracted: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 17-09-51.wav
+2025-01-02 17:17:20,199 - INFO - Transcribing audio file: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 17-09-51.wav
+2025-01-02 17:17:27,049 - ERROR - Error during transcription for C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 17-09-51.wav: Command '['insanely-fast-whisper', '--file-name', 'C:\\Users\\Sharvaree\\Videos\\CQF_Output\\2024-12-20 17-09-51.wav', '--language', 'en', '--batch-size', '2', '--output-file', 'C:\\Users\\Sharvaree\\Videos\\CQF_Output\\2024-12-20 17-09-51.json']' returned non-zero exit status 2.
+2025-01-02 17:17:27,049 - INFO - Processing file: 2024-12-20 17-33-14.mkv
+2025-01-02 17:17:27,049 - INFO - Audio already extracted: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 17-33-14.wav
+2025-01-02 17:17:27,049 - INFO - Transcribing audio file: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 17-33-14.wav
+2025-01-02 17:17:34,449 - ERROR - Error during transcription for C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 17-33-14.wav: Command '['insanely-fast-whisper', '--file-name', 'C:\\Users\\Sharvaree\\Videos\\CQF_Output\\2024-12-20 17-33-14.wav', '--language', 'en', '--batch-size', '2', '--output-file', 'C:\\Users\\Sharvaree\\Videos\\CQF_Output\\2024-12-20 17-33-14.json']' returned non-zero exit status 2.
+2025-01-02 17:17:34,449 - INFO - Processing file: 2024-12-21 10-00-38.mkv
+2025-01-02 17:17:34,449 - INFO - Audio already extracted: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-21 10-00-38.wav
+2025-01-02 17:17:34,449 - INFO - Transcribing audio file: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-21 10-00-38.wav
+2025-01-02 17:17:41,266 - ERROR - Error during transcription for C:\Users\Sharvaree\Videos\CQF_Output\2024-12-21 10-00-38.wav: Command '['insanely-fast-whisper', '--file-name', 'C:\\Users\\Sharvaree\\Videos\\CQF_Output\\2024-12-21 10-00-38.wav', '--language', 'en', '--batch-size', '2', '--output-file', 'C:\\Users\\Sharvaree\\Videos\\CQF_Output\\2024-12-21 10-00-38.json']' returned non-zero exit status 2.
+2025-01-02 17:20:47,182 - INFO - Set CUDA_VISIBLE_DEVICES to 0
+2025-01-02 17:20:51,743 - INFO - CUDA device found: NVIDIA GeForce RTX 3060 Laptop GPU
+2025-01-02 17:20:51,743 - INFO - Processing file: 2024-12-20 15-30-14.mkv
+2025-01-02 17:20:51,763 - INFO - Audio already extracted: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-30-14.wav
+2025-01-02 17:20:51,765 - INFO - Transcribing audio file: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-30-14.wav
+2025-01-02 17:20:51,765 - INFO - Running command: insanely-fast-whisper --file-name C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-30-14.wav --language en --batch-size 2 --output-file C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-30-14.json
+2025-01-02 17:20:58,725 - ERROR - Error during transcription for C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-30-14.wav: usage: insanely-fast-whisper.exe [-h] --file-name FILE_NAME
+                                 [--device-id DEVICE_ID]
+                                 [--transcript-path TRANSCRIPT_PATH]
+                                 [--model-name MODEL_NAME]
+                                 [--task {transcribe,translate}]
+                                 [--language LANGUAGE]
+                                 [--batch-size BATCH_SIZE] [--flash FLASH]
+                                 [--timestamp {chunk,word}]
+                                 [--hf-token HF_TOKEN]
+                                 [--diarization_model DIARIZATION_MODEL]
+                                 [--num-speakers NUM_SPEAKERS]
+                                 [--min-speakers MIN_SPEAKERS]
+                                 [--max-speakers MAX_SPEAKERS]
+insanely-fast-whisper.exe: error: unrecognized arguments: --output-file C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-30-14.json
+
+2025-01-02 17:20:58,725 - INFO - Processing file: 2024-12-20 15-51-35.mkv
+2025-01-02 17:20:58,732 - INFO - Audio already extracted: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-51-35.wav
+2025-01-02 17:20:58,732 - INFO - Transcribing audio file: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-51-35.wav
+2025-01-02 17:20:58,732 - INFO - Running command: insanely-fast-whisper --file-name C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-51-35.wav --language en --batch-size 2 --output-file C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-51-35.json
+2025-01-02 17:21:05,614 - ERROR - Error during transcription for C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-51-35.wav: usage: insanely-fast-whisper.exe [-h] --file-name FILE_NAME
+                                 [--device-id DEVICE_ID]
+                                 [--transcript-path TRANSCRIPT_PATH]
+                                 [--model-name MODEL_NAME]
+                                 [--task {transcribe,translate}]
+                                 [--language LANGUAGE]
+                                 [--batch-size BATCH_SIZE] [--flash FLASH]
+                                 [--timestamp {chunk,word}]
+                                 [--hf-token HF_TOKEN]
+                                 [--diarization_model DIARIZATION_MODEL]
+                                 [--num-speakers NUM_SPEAKERS]
+                                 [--min-speakers MIN_SPEAKERS]
+                                 [--max-speakers MAX_SPEAKERS]
+insanely-fast-whisper.exe: error: unrecognized arguments: --output-file C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-51-35.json
+
+2025-01-02 17:21:05,614 - INFO - Processing file: 2024-12-20 16-18-19.mkv
+2025-01-02 17:21:05,621 - INFO - Audio already extracted: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 16-18-19.wav
+2025-01-02 17:21:05,623 - INFO - Transcribing audio file: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 16-18-19.wav
+2025-01-02 17:21:05,623 - INFO - Running command: insanely-fast-whisper --file-name C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 16-18-19.wav --language en --batch-size 2 --output-file C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 16-18-19.json
+2025-01-02 17:23:41,449 - INFO - Set CUDA_VISIBLE_DEVICES to 0
+2025-01-02 17:23:44,976 - INFO - CUDA device found: NVIDIA GeForce RTX 3060 Laptop GPU
+2025-01-02 17:23:44,991 - INFO - Processing file: 2024-12-20 15-30-14.mkv
+2025-01-02 17:23:44,991 - INFO - Audio already extracted: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-30-14.wav
+2025-01-02 17:23:45,007 - INFO - Transcribing audio file: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-30-14.wav
+2025-01-02 17:23:45,007 - INFO - Running command: insanely-fast-whisper --file-name C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-30-14.wav --language en --batch-size 2
+2025-01-02 17:26:37,999 - INFO - Transcription completed for: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-30-14.wav
+2025-01-02 17:26:37,999 - INFO - Renamed output.json to C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-30-14.json
+2025-01-02 17:26:37,999 - INFO - Processing file: 2024-12-20 15-51-35.mkv
+2025-01-02 17:26:37,999 - INFO - Audio already extracted: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-51-35.wav
+2025-01-02 17:26:37,999 - INFO - Transcribing audio file: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-51-35.wav
+2025-01-02 17:26:37,999 - INFO - Running command: insanely-fast-whisper --file-name C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-51-35.wav --language en --batch-size 2
+2025-01-02 17:29:31,485 - INFO - Transcription completed for: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-51-35.wav
+2025-01-02 17:29:31,486 - INFO - Renamed output.json to C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 15-51-35.json
+2025-01-02 17:29:31,487 - INFO - Processing file: 2024-12-20 16-18-19.mkv
+2025-01-02 17:29:31,488 - INFO - Audio already extracted: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 16-18-19.wav
+2025-01-02 17:29:31,488 - INFO - Transcribing audio file: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 16-18-19.wav
+2025-01-02 17:29:31,488 - INFO - Running command: insanely-fast-whisper --file-name C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 16-18-19.wav --language en --batch-size 2
+2025-01-02 17:30:47,667 - INFO - Transcription completed for: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 16-18-19.wav
+2025-01-02 17:30:47,671 - INFO - Renamed output.json to C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 16-18-19.json
+2025-01-02 17:30:47,673 - INFO - Processing file: 2024-12-20 16-31-17.mkv
+2025-01-02 17:30:47,674 - INFO - Audio already extracted: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 16-31-17.wav
+2025-01-02 17:30:47,674 - INFO - Transcribing audio file: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 16-31-17.wav
+2025-01-02 17:30:47,674 - INFO - Running command: insanely-fast-whisper --file-name C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 16-31-17.wav --language en --batch-size 2
+2025-01-02 17:33:29,654 - INFO - Transcription completed for: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 16-31-17.wav
+2025-01-02 17:33:29,656 - INFO - Renamed output.json to C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 16-31-17.json
+2025-01-02 17:33:29,657 - INFO - Processing file: 2024-12-20 16-56-48.mkv
+2025-01-02 17:33:29,658 - INFO - Audio already extracted: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 16-56-48.wav
+2025-01-02 17:33:29,658 - INFO - Transcribing audio file: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 16-56-48.wav
+2025-01-02 17:33:29,659 - INFO - Running command: insanely-fast-whisper --file-name C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 16-56-48.wav --language en --batch-size 2
+2025-01-02 17:34:59,377 - INFO - Transcription completed for: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 16-56-48.wav
+2025-01-02 17:34:59,385 - INFO - Renamed output.json to C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 16-56-48.json
+2025-01-02 17:34:59,387 - INFO - Processing file: 2024-12-20 17-09-51.mkv
+2025-01-02 17:34:59,388 - INFO - Audio already extracted: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 17-09-51.wav
+2025-01-02 17:34:59,388 - INFO - Transcribing audio file: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 17-09-51.wav
+2025-01-02 17:34:59,388 - INFO - Running command: insanely-fast-whisper --file-name C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 17-09-51.wav --language en --batch-size 2
+2025-01-02 17:51:41,827 - INFO - Transcription completed for: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 17-09-51.wav
+2025-01-02 17:51:41,827 - INFO - Renamed output.json to C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 17-09-51.json
+2025-01-02 17:51:41,827 - INFO - Processing file: 2024-12-20 17-33-14.mkv
+2025-01-02 17:51:41,827 - INFO - Audio already extracted: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 17-33-14.wav
+2025-01-02 17:51:41,827 - INFO - Transcribing audio file: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 17-33-14.wav
+2025-01-02 17:51:41,827 - INFO - Running command: insanely-fast-whisper --file-name C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 17-33-14.wav --language en --batch-size 2
+2025-01-02 17:52:57,646 - INFO - Transcription completed for: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 17-33-14.wav
+2025-01-02 17:52:57,646 - INFO - Renamed output.json to C:\Users\Sharvaree\Videos\CQF_Output\2024-12-20 17-33-14.json
+2025-01-02 17:52:57,648 - INFO - Processing file: 2024-12-21 10-00-38.mkv
+2025-01-02 17:52:57,648 - INFO - Audio already extracted: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-21 10-00-38.wav
+2025-01-02 17:52:57,648 - INFO - Transcribing audio file: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-21 10-00-38.wav
+2025-01-02 17:52:57,648 - INFO - Running command: insanely-fast-whisper --file-name C:\Users\Sharvaree\Videos\CQF_Output\2024-12-21 10-00-38.wav --language en --batch-size 2
+2025-01-02 17:55:06,331 - INFO - Transcription completed for: C:\Users\Sharvaree\Videos\CQF_Output\2024-12-21 10-00-38.wav
+2025-01-02 17:55:06,333 - INFO - Renamed output.json to C:\Users\Sharvaree\Videos\CQF_Output\2024-12-21 10-00-38.json
